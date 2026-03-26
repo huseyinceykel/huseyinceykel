@@ -1,10 +1,16 @@
-# Merhaba, ben Hüseyin Eren Çeykel 👋
+# 🚀 Hüseyin Eren Çeykel | Backend Developer Intern 👋
 
-### 🎓 Bilgisayar Mühendisi Adayı | 🚀 Backend Developer Intern
+---
 
-Kastamonu Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Şu an **Java & Spring Boot** ve **SAP Hybris** ekosisteminde derinleşerek kurumsal projelerde deneyim kazanıyorum.
+<img src="path/to/huseyin_banner.png" alt="Hüseyin Eren Çeykel Backend Coder Banner" width="100%">
 
-*"Veri yapılarını optimize etmek ve ölçeklenebilir sistemler mimarisi üzerine çalışmak temel ilgi alanım."*
+---
+
+### 🎓 Bilgisayar Mühendisi Adayı | ⚡️ Kodun Arkasındaki Güç
+
+Kastamonu Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kurumsal projelerde **Java & Spring Boot** ve **SAP Hybris** ekosistemlerinin gücünü kullanarak deneyim kazanıyorum. Veri yapılarını optimize etmek ve ölçeklenebilir sistem mimarisi oluşturmak temel ilgi alanım.
+
+*"Geleceği kodlarken, toplulukla büyüyoruz."*
 
 ---
 
@@ -23,7 +29,7 @@ Kastamonu Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Şu
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/SAP_Hybris-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Hybris"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter (Mobile Backend/Logic)"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter (Logic/Services)"/>
 </p>
 
 #### 🗄️ Veritabanı & Sıralama
@@ -41,13 +47,6 @@ Kastamonu Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Şu
 
 ---
 
-### 🌟 Topluluk & Paylaşım
-
-- **GDG Kastamonu** bünyesinde aktif rol alarak global developer topluluklarıyla bağ kuruyorum.
-- Öğrendiklerimi ve deneyimlerimi **Medium** üzerinden makalelerle paylaşıyorum.
-
----
-
 ### 📊 GitHub İstatistiklerim
 
 ![Hüseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseyinerenceykel&show_icons=true&theme=radical)  
@@ -55,8 +54,19 @@ Kastamonu Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Şu
 
 ---
 
-### 📫 Bana Ulaşın
+### 🌟 Topluluk & İletişim
 
-- ✍️ [Medium Yazılarım](https://medium.com/@huseyinerenceykel)
-- 💼 [LinkedIn](https://linkedin.com/in/huseyinerenceykel)
-- 📧 [E-posta](mailto:huseyinerenceykel@gmail.com)
+- **GDG Kastamonu** aktif üyesi ve koordinatörü.
+- **Medium** üzerinde teknik makaleler yazıyorum.
+
+<p align="left">
+  <a href="mailto:eposta-adresini-buraya-yaz@gmail.com">
+    <img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hüseyin E-posta" />
+  </a>
+  <a href="https://linkedin.com/in/huseyinerenceykel">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hüseyin LinkedIn" />
+  </a>
+  <a href="https://medium.com/@huseyinerenceykel">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Hüseyin Medium" />
+  </a>
+</p>
