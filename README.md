@@ -51,11 +51,13 @@ Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme k
 
 ---
 
+---
+
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinceykel&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huseyinceykel&theme=dracula" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinceykel&theme=dracula&hide_border=true" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huseyinceykel&theme=dracula" height="180px" />
 </p>
 
 ---
@@ -63,6 +65,13 @@ Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme k
 ### 📫 İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/in/huseyinerenceykel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@huseyinerenceykel"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/huseyinerenceykel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@huseyinerenceykel">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:huseyinerenceykel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
