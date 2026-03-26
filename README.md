@@ -5,7 +5,7 @@
 # <h1 align="center">Merhaba, ben Hüseyin Eren Çeykel 👋</h1>
 
 <p align="center">
-  <strong>Yazılım Mühendisi | Backend Developer</strong><br>
+  <strong>Bilgisayar Mühendisi | Backend Developer</strong><br>
   🚀 Java & SAP Hybris Specialist | GDG Kastamonu Founder
 </p>
 
@@ -54,8 +54,8 @@ Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme k
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinceykel&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinceykel&layout=compact&theme=dracula&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinceykel&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huseyinceykel&theme=dracula" width="48%" />
 </p>
 
 ---
@@ -65,5 +65,4 @@ Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme k
 <p align="left">
   <a href="https://linkedin.com/in/huseyinerenceykel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@huseyinerenceykel"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:eposta-adresini-buraya-yaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
