@@ -5,15 +5,15 @@
 # <h1 align="center">Merhaba, ben Hüseyin Eren Çeykel 👋</h1>
 
 <p align="center">
-  <strong>Kastamonu Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisi</strong><br>
-  🚀 Backend Developer Intern (Java & SAP Hybris) | GDG Kastamonu Koordinatörü
+  <strong>Bilgisayar Mühendisi</strong><br>
+  🚀 Backend Developer | GDG Kastamonu @founder
 </p>
 
 ---
 
 ### 🎓 Hakkımda
 
-Kastamonu Üniversitesi'nde eğitimime devam ederken, kurumsal projelerde **Java & Spring Boot** ve **SAP Hybris** ekosistemlerini kullanarak backend dünyasında uzmanlaşıyorum. Veri yapılarını optimize etmek ve ölçeklenebilir sistem mimarisi oluşturmak temel ilgi alanım. Aynı zamanda **GDG Kastamonu** ile topluluklara katkı sağlıyor ve teknoloji dünyasında aktif bir rol alıyorum.
+Bilgisayar Mühendisliği lisans eğitimini tamamlamış, kurumsal seviyede backend mimarilerine odaklanan bir yazılım mühendisi adayıyım. Staj ve proje geliştirme süreçlerimde Java & Spring Boot ile SAP Hybris ekosistemlerinde aktif rol alarak ölçeklenebilir sistemler ve veri optimizasyonu konularında deneyim kazandım. Teknolojiyi sadece tüketen değil, GDG Kastamonu topluluğuyla ekosisteme katkı sağlayan ve Medium üzerinden teknik birikimini paylaşan, sürekli öğrenmeye aç bir geliştiriciyim.
 
 ---
 
@@ -53,8 +53,8 @@ Kastamonu Üniversitesi'nde eğitimime devam ederken, kurumsal projelerde **Java
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinerenceykel&show_icons=true&theme=dracula&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinerenceykel&layout=compact&theme=dracula&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyinceykel&show_icons=true&theme=dracula&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinceykel&layout=compact&theme=dracula&hide_border=true" width="48%">
 </p>
 
 ---
