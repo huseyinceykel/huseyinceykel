@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Bilgisayar Mühendisi | Backend Developer</strong><br>
-  🚀 Java & SAP Hybris Specialist | GDG Kastamonu Founder
+  🚀 Java & SAP Hybris | GDG Kastamonu Founder
 </p>
 
 ---
