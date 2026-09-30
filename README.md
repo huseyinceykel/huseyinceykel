@@ -6,18 +6,18 @@
 
 <p align="center">
   <strong>Software Developer Expert @ Saat Teknoloji | Backend Developer</strong><br>
-  🚀 Java & Spring Boot & SAP Hybris | GDG Kastamonu Founder
+  🚀 IP-Video, OTT & Stream Solutions | GDG Kastamonu Founder
 </p>
 
 ---
 
 ### 🎓 Hakkımda
 
-Bilgisayar Mühendisliği lisans eğitimini tamamlamış, kurumsal seviyede backend mimarilerine odaklanan deneyimli bir yazılım mühendisiyim. Şu anda **Saat Teknoloji** bünyesinde **Software Developer Expert** olarak görev yapmaktayım.
+Bilgisayar Mühendisliği lisans eğitimini tamamlamış, yüksek performanslı ve ölçeklenebilir backend mimarilerine odaklanan bir yazılım mühendisiyim. Şu anda **Saat Teknoloji** bünyesinde **Software Developer Expert** olarak görev yapmaktayım.
 
-Geliştirme süreçlerimde **Java & Spring Boot** ve **SAP Hybris** ekosistemlerinde aktif rol alarak ölçeklenebilir backend sistemleri, e-ticaret altyapıları ve veri optimizasyonu konularında çözümler üretiyorum. 
+Yüksek trafikli **IP-Video, OTT (Over-The-Top), Streaming, CDN, VOD ve Canlı Yayın** teknolojileri üzerine uçtan uca backend çözümleri geliştirmekteyim. **Java & Spring Boot** ekosistemi başta olmak üzere, microservice mimarileri, veri optimizasyonu ve yüksek erişilebilirlikli dağıtık sistemler konularında uzmanlaşıyorum.
 
-Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme katkı sağlayan ve **Medium** üzerinden teknik birikimini paylaşan, çözüm odaklı bir geliştiriciyim.
+Teknolojiyi sadece üreten değil, **GDG Kastamonu** topluluğuyla ekosisteme katkı sağlayan ve **Medium** üzerinden teknik deneyimlerini paylaşan, çözüm odaklı bir mühendisim.
 
 ---
 
@@ -31,10 +31,12 @@ Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme k
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Frameworks
+#### ⚙️ Backend Mimarisi & Teknolojiler
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_Hybris-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-85EA2D?style=for-the-badge&logo=architecture&logoColor=black" />
+  <img src="https://img.shields.io/badge/OTT_&_IP_Video-008080?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streaming_(HLS/DASH)-FF4500?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
 #### 🗄️ Veritabanı & Mesajlaşma
