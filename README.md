@@ -5,15 +5,17 @@
 # <h1 align="center">Merhaba, ben Hüseyin Eren Çeykel 👋</h1>
 
 <p align="center">
-  <strong>Bilgisayar Mühendisi | Backend Developer</strong><br>
-  🚀 Java & SAP Hybris | GDG Kastamonu Founder
+  <strong>Software Developer Expert @ Saat Teknoloji | Backend Developer</strong><br>
+  🚀 Java & Spring Boot & SAP Hybris | GDG Kastamonu Founder
 </p>
 
 ---
 
 ### 🎓 Hakkımda
 
-Bilgisayar Mühendisliği lisans eğitimini tamamlamış, kurumsal seviyede backend mimarilerine odaklanan bir yazılım mühendisi adayıyım. Staj ve proje geliştirme süreçlerimde **Java & Spring Boot** ile **SAP Hybris** ekosistemlerinde aktif rol alarak ölçeklenebilir sistemler ve veri optimizasyonu konularında deneyim kazandım. 
+Bilgisayar Mühendisliği lisans eğitimini tamamlamış, kurumsal seviyede backend mimarilerine odaklanan deneyimli bir yazılım mühendisiyim. Şu anda **Saat Teknoloji** bünyesinde **Software Developer Expert** olarak görev yapmaktayım.
+
+Geliştirme süreçlerimde **Java & Spring Boot** ve **SAP Hybris** ekosistemlerinde aktif rol alarak ölçeklenebilir backend sistemleri, e-ticaret altyapıları ve veri optimizasyonu konularında çözümler üretiyorum. 
 
 Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme katkı sağlayan ve **Medium** üzerinden teknik birikimini paylaşan, çözüm odaklı bir geliştiriciyim.
 
@@ -48,8 +50,6 @@ Teknolojiyi sadece tüketen değil, **GDG Kastamonu** topluluğuyla ekosisteme k
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
 
 ---
 
