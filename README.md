@@ -13,9 +13,9 @@
 
 ### 🎓 Hakkımda
 
-Bilgisayar Mühendisliği lisans eğitimini tamamlamış, yüksek performanslı ve ölçeklenebilir backend mimarilerine odaklanan bir yazılım mühendisiyim. Şu anda **Saat Teknoloji** bünyesinde **Software Development Expert** olarak görev yapmaktayım.
+Bilgisayar Mühendisliği lisans eğitimini tamamlamış, yüksek performanslı ve ölçeklenebilir mimarilere odaklanan bir yazılım mühendisiyim. Şu anda **Saat Teknoloji** bünyesinde **Software Development Expert** olarak görev yapmaktayım.
 
-Yüksek trafikli **IP-Video, OTT (Over-The-Top), Streaming, CDN, VOD ve Canlı Yayın** teknolojileri üzerine uçtan uca backend çözümleri geliştirmekteyim. Microservice mimarileri, veri optimizasyonu ve yüksek erişilebilirlikli dağıtık sistemler konularında uzmanlaşıyorum.
+Yüksek trafikli **IP-Video, OTT (Over-The-Top), Streaming, CDN, VOD ve Canlı Yayın** teknolojileri üzerine uçtan uca çözümler geliştirmekteyim. Microservice mimarileri, veri optimizasyonu ve yüksek erişilebilirlikli dağıtık sistemler konularında uzmanlaşıyorum.
 
 Teknolojiyi sadece üreten değil, **GDG Kastamonu** topluluğuyla ekosisteme katkı sağlayan ve **Medium** üzerinden teknik deneyimlerini paylaşan, çözüm odaklı bir mühendisim.
 
