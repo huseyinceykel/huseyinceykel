@@ -5,7 +5,7 @@
 # <h1 align="center">Merhaba, ben Hüseyin Eren Çeykel 👋</h1>
 
 <p align="center">
-  <strong>Software Developer Expert @ Saat Teknoloji | Backend Developer</strong><br>
+  <strong>Software Development Expert @ Saat Teknoloji | Backend Developer</strong><br>
   🚀 IP-Video, OTT & Stream Solutions | GDG Kastamonu Founder
 </p>
 
@@ -13,7 +13,7 @@
 
 ### 🎓 Hakkımda
 
-Bilgisayar Mühendisliği lisans eğitimini tamamlamış, yüksek performanslı ve ölçeklenebilir backend mimarilerine odaklanan bir yazılım mühendisiyim. Şu anda **Saat Teknoloji** bünyesinde **Software Developer Expert** olarak görev yapmaktayım.
+Bilgisayar Mühendisliği lisans eğitimini tamamlamış, yüksek performanslı ve ölçeklenebilir backend mimarilerine odaklanan bir yazılım mühendisiyim. Şu anda **Saat Teknoloji** bünyesinde **Software Development Expert** olarak görev yapmaktayım.
 
 Yüksek trafikli **IP-Video, OTT (Over-The-Top), Streaming, CDN, VOD ve Canlı Yayın** teknolojileri üzerine uçtan uca backend çözümleri geliştirmekteyim. **Java & Spring Boot** ekosistemi başta olmak üzere, microservice mimarileri, veri optimizasyonu ve yüksek erişilebilirlikli dağıtık sistemler konularında uzmanlaşıyorum.
 
