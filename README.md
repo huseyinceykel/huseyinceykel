@@ -73,7 +73,4 @@ Teknolojiyi sadece üreten değil, **GDG Kastamonu** topluluğuyla ekosisteme ka
   <a href="https://medium.com/@huseyinerenceykel">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:huseyinerenceykel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
