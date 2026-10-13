@@ -5,7 +5,7 @@
 # <h1 align="center">Merhaba, ben Hüseyin Eren Çeykel 👋</h1>
 
 <p align="center">
-  <strong>Software Development Expert @ Saat Teknoloji | Backend Developer</strong><br>
+  <strong>Software Development Expert @ Saat Teknoloji</strong><br>
   🚀 IP-Video, OTT & Stream Solutions | GDG Kastamonu Founder
 </p>
 
